@@ -26,7 +26,7 @@ function App() {
         <div className="dark-mode"></div>
         <div className="card_body">
           <div className="profile text-center ">
-            <img src="/Foto.png" className="avatar" alt="avatar" />
+            <img src="/Foto1.png" className="avatar" alt="avatar" />
             <div className="bg_content rd_12 p_8">
               <h1>Misbakhul Munir</h1>
               <p className="mt-16">Programmer</p>
